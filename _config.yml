@@ -23,9 +23,9 @@ title: Allô Docteur·e
 description: >- # this means to ignore newlines until "baseurl:"
   Allô Docteur·e, le super podcast des docteur·e·s en informatique et mathématiques !
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://allo-docteur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://allo-docteur-e.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  allo-docteur
+github_username:  allo-docteur-e
 
 # Build settings
 theme: minima
