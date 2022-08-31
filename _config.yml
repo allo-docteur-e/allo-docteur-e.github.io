@@ -21,7 +21,7 @@
 title: Allô Docteur
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Allô Docteur, le super podcast des docteurs en informatique et mathématique !
+  Allô Docteur, le super podcast des docteurs en informatique et mathématiques !
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://allo-docteur.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
