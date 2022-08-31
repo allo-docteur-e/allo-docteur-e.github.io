@@ -7,5 +7,5 @@ list_title: Épisodes
 ---
 
 
-Bienvenue sur la page d'Allô Docteur, le podcast qui s'intéresse aux premiers pas de chercheurs
-en informatique et mathématiques.
+Bienvenue sur la page d'Allô Docteur·e, le podcast qui s'intéresse aux premiers pas
+des chercheureuses en informatique et mathématiques.
